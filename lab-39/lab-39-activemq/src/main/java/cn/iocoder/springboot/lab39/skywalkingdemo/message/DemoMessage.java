@@ -1,4 +1,4 @@
-package cn.iocoder.springboot.lab32.activemqdemo.message;
+package cn.iocoder.springboot.lab39.skywalkingdemo.message;
 
 import java.io.Serializable;
 

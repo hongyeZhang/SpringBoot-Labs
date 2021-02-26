@@ -1,6 +1,6 @@
 package cn.iocoder.springboot.lab39.skywalkingdemo.consumer;
 
-import cn.iocoder.springboot.lab32.activemqdemo.message.DemoMessage;
+import cn.iocoder.springboot.lab39.skywalkingdemo.message.DemoMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.jms.annotation.JmsListener;

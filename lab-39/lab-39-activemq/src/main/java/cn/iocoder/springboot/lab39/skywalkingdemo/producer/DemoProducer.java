@@ -1,6 +1,6 @@
 package cn.iocoder.springboot.lab39.skywalkingdemo.producer;
 
-import cn.iocoder.springboot.lab32.activemqdemo.message.DemoMessage;
+import cn.iocoder.springboot.lab39.skywalkingdemo.message.DemoMessage;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsMessagingTemplate;
 import org.springframework.stereotype.Component;
